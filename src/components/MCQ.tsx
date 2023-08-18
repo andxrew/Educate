@@ -128,7 +128,7 @@ const MCQ = ({ game }: Props) => {
 	return (
 		<div
 			className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 md:w-[80vw]
-    max-w-4xl w-[90vw]"
+    max-w-4xl w-[90vw] mt-[10%] md:mt-0"
 		>
 			<div className="flex flex-row justify-between">
 				<div className="flex flex-col">
