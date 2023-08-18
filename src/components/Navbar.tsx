@@ -12,8 +12,8 @@ const Navbar = async (props: Props) => {
 	// console.log(session?.user);
 	return (
 		<div
-			className="fixed inset-x-0 top-0 bg-white dark:bg-gray-950
-        z-[10] h-fit border-b border-zinc-300 py-2"
+			className="fixed w-full top-0 bg-white dark:bg-gray-950
+        z-[10] h-[8%] shadow border-zinc-300 py-2"
 		>
 			<div
 				className="flex items items-center justify-between h-full
